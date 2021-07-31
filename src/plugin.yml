@@ -1,0 +1,8 @@
+  name: ForceUpdate
+  main: ronJon.forceUpdate.Main
+  version: 1.0
+  description: basic plugin removes version file to force .jar update
+
+  commands:
+    updateJar:
+      description: force an update on next restart!
